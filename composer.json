@@ -22,7 +22,7 @@
         "josegonzalez/dotenv": "^3.2",
         "knplabs/github-api": "^2.8 | ^3.0",
         "laravel/helpers": "^1.1",
-        "php-http/guzzle6-adapter": "^1.1",
+        "php-http/guzzle6-adapter": "^1.1 | ^2.0",
         "symfony/yaml": "^4.0",
         "ext-pdo": "*"
     },
